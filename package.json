@@ -1,0 +1,22 @@
+{
+  "name": "js-jest-testing",
+  "version": "1.0.0",
+  "description": "Practice some Jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorucoder/js-jest-testing.git"
+  },
+  "keywords": [
+    "testing",
+    "tdd"
+  ],
+  "author": "Marcus E. W. Germano, IV",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
